@@ -1,0 +1,16 @@
+####################################
+# Syntax Coloring Map For RandomLib
+####################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RandomLib	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getNumberInt	KEYWORD2
+getNumberFloat	KEYWORD2

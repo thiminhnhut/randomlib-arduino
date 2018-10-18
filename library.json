@@ -1,0 +1,21 @@
+{
+    "name": "RandomLib",
+    "keywords": "RandomLib",
+    "description": "Random Library for Arduino, ESP8266, ESP32",
+    "authors": {
+        "name": "thiminhnhut",
+        "email": "thiminhnhut@gmail.com",
+        "url": "https://github.com/thiminhnhut",
+        "maintainer": true
+    },
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thiminhnhut/randomlib-arduino.git"
+    },
+    "export": {
+        "include": "RandomLib"
+    },
+    "frameworks": "arduino",
+    "platforms": ["atmelavr", "espressif8266", "espressif32"]
+}
