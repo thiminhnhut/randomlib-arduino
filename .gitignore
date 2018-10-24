@@ -10,3 +10,5 @@ platformio.ini
 main.cpp
 include
 lib
+.clang_complete
+.gcc-flags.json

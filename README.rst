@@ -36,7 +36,7 @@ Thư viện RandomLib
   .. code::
 
     RandomLib();
-            
+
     int getNumberInt(int maxValue);
 
     int getNumberInt(int minValue, int maxValue);
@@ -45,7 +45,7 @@ Thư viện RandomLib
 
   * File `RandomLib.cpp <https://github.com/thiminhnhut/randomlib-arduino/blob/master/src/RandomLib.cpp>`_.
 
-* Ví dụ: `demo.ino <https://github.com/thiminhnhut/randomlib-arduino/blob/master/examples/demo.ino>`_
+* Ví dụ: `demo.ino <https://github.com/thiminhnhut/randomlib-arduino/blob/master/examples/demo/demo.ino>`_
 
 Chức năng của thư viện RandomLib
 ================================
